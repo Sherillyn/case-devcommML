@@ -24,4 +24,4 @@ Pensando em melhor organizar a proposta do case, cada exercício foi dividido em
 - Exercício 3 (nomeado como **[3-doc-vtex.md](https://github.com/Sherillyn/case-devcommML/blob/main/3-doc-vtex.md)**) - possui a resposta das perguntas que buscam resolver os pontos a desenvolver do relatório de algumas documentações da VTEX.
 
 
-## Colocar mais um tópico aqui
+## Passos para começar o case

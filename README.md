@@ -1,9 +1,16 @@
 # Docs DevComm - Mercado Livre
 
-#### Olá, comece por aqui e entenda a divisão desse repositório :smiley:
+#### Olá, o objetivo desse repositório é unir os exercícios propostos para o case técnico do Mercado Pago.
+Comece por aqui para entender a proposta e o raciocínio por trás dela :smiley:
 
 
 ## Por que a escolha do GitHub? 
+
+Tratando de uma documentação que o público alvo são desenvolvedore sque realizam integrações com APIs, o GitHub é bem conhecido. Mesmo os mais iniciantes tem ou precisam ter viviência com a plataforma. Então mesmo sem um estudo prévio, aposto que manter a documentação próxima ao códgo, sempre será uma forma de facilitar a criação e atualização da mesma. 
+
+O GitHub também conta com um controle de versões que é essencial para garantir um processo de documentar mais seguro e com as revisões necessárias. 
+
+Foi dito também que o time de Tech Writers usa atualmente o markdown, então pensei em trazer um pouco desse conhecimento também. 
 
 
 

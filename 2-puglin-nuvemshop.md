@@ -115,6 +115,12 @@ Veja o gif abaixo para complementar o entendimento do fluxo acima, caso necessá
 
 #### Configurando o parcelamento em sua conta Mercado Pago
 
+1. Acesse sua conta Mercado Pago e clique em **Seu negócio**.
+2. Clique na opção **Configurações**, navegue até o campo **Oferecer parcelas sem acréscimo**
+3. Clique em **Ativar**.
+4. Escolha **Quantas parcelas você quer oferecer?** 
+5. Llique em **Ativar** para confirmar as alterações.
+
 ## Testes
 
 
@@ -135,6 +141,8 @@ Caso precise trocar a conta atual do Mercado Pago por outra, siga os passos abai
 4. Clique em **Mudar usuário** para desvincular a conta atual.
 5. Refaça o processo para ativar uma nova conta.
 
+
+> Os serviços do Mercado Envios estão temporariamente indisponíveis, não sendo possível utilizar esse meio de envio na plataforma por tempo indeterminado.
 
 ### Credenciais
 

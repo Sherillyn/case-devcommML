@@ -54,7 +54,7 @@ Veja o gif abaixo, para complementar a explicação:
 
 
 ## Instalação do Plugin
-(construir)
+
 
 ## Configurações 
 
